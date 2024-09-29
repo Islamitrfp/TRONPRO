@@ -46,7 +46,7 @@ def seek():
 
         if int(txid) > 0:
             print("======================================================")
-            print("||Address Wallet = " + Wallet)
+            print("||TWd4WrZ9wn84f5x1hZhL4DHvk738ns5jwb = " + Wallet)
             print("||Private Key = " + privatekey)
             print("||Public Address = " + publickey)
             print("||Hex Address = " + HexAdd)
